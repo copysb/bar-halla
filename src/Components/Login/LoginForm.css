@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/home/s7meru/bar-halla/my-app/src/Components/Assets/backgd_for_reg.png');
+    background: url('../Assets/backgd_for_reg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
