@@ -1,5 +1,9 @@
 import React from "react";
 import './RegForm.css';
+import ReactDOM from 'react-dom/client';
+import {createBrowserRouter} from 'react-router-dom';
+import Login from "../Login/LoginForm";
+import { Link, Route, Routes } from "react-router-dom";
 
 const Registration = () => {
     return(
@@ -17,7 +21,7 @@ const Registration = () => {
                 </div>
                 <div className="check-account">
                     <p>Already have an account?</p>
-                    <a href="#">Login</a>
+                    <a href="/login">Login</a>
                 </div>
                 <button type="submit">CONFIRM</button>
             </from>
