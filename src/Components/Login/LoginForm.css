@@ -27,12 +27,11 @@ body {
     border: solid 1px #eaeaea;
     min-height: 10vh;
 } 
+
 .wrapper h1 {
     font-size: 32px;
     text-align:center;
-    color: #eaeaea;
-    position: relative;
-    top: -90%;
+    color: white;
 }
 .wrapper .input-box {
     position: relative;
@@ -72,7 +71,7 @@ body {
 }
 .wrapper button {
     width: 236.32px;
-    height: 86px;
+    height: 70px;
     position: relative;
     left: 165px;
     top: 50px;
@@ -83,7 +82,4 @@ body {
     border: solid 1px #eaeaea;
     letter-spacing: 15%;
     font-weight: bolder;
-}
-.rectangle {
-    
 }
