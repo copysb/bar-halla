@@ -1,8 +1,9 @@
 import './App.css';
-import AboS from './Components/AboutUs_pg/AboutUs.jsx';
+import Footer from './Components/Footer.jsx';
 function App() {
   return (
-    <div> <AboS/>
+    <div>
+      <Footer />
     </div>
   );
 }
