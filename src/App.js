@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import Login from './Components/Login/LoginForm';
+import Registration from './Components/Registration/RegForm';
+
 function App() {
   return (
-    <div> <Login/>
+    <div> <Registration/>
     </div>
   );
 }
