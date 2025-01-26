@@ -1,9 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
-import Login from './Components/Login/LoginForm';
+import AboS from './Components/AboutUs_pg/AboutUs.jsx';
 function App() {
   return (
-    <div> <Login/>
+    <div> <AboS/>
     </div>
   );
 }
