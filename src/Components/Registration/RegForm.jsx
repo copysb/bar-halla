@@ -1,9 +1,5 @@
 import React from "react";
 import './RegForm.css';
-import ReactDOM from 'react-dom/client';
-import {createBrowserRouter} from 'react-router-dom';
-import Login from "../Login/LoginForm";
-import { Link, Route, Routes } from "react-router-dom";
 
 const Registration = () => {
     return(
