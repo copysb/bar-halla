@@ -5,7 +5,7 @@ import "./Footer.css";
 
 function Footer() {
     return (
-        <div className='main'>
+        <footer className='main'>
             <div className='frame'>
                 <div className='frame_rect' />
             </div>
@@ -18,7 +18,7 @@ function Footer() {
             <div className="vk_icon" />
             <div className="telegram_icon" />
             <span className="sign">© 2025 Bar-Halla</span>
-        </div>
+        </footer>
     );
 }
 
