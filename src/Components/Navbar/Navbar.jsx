@@ -1,26 +1,25 @@
 import React from 'react'
 import './Navbar.css'
+import logo from 'D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/Bar-Halla-logo.png'
+import coin from 'D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/stick-coin.png'
 import { FaUser } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <div>
-        <header className="header">
-            <a href="#" className="Profile"><FaUser />Profile</a>
-            <div className="Stick"><a className='Coins'></a></div>
-            <nav className="navbar">
-                <a href="#" className="Home">Home</a>
-                <a href="#" className="FAQ">FAQ</a>
-                <a href="#" className="About-Us">About Us</a>
-            </nav>
-        </header>
-        <main>
-          <div>
-            
-          </div>
-        </main>
-    </div>
-  );
+    <nav>
+        <ul>
+            <li className='prof'><FaUser />Profile</li>
+            <li className='coins'><a><img src={coin} alt='' className='sc'/></a></li>
+            </ul>
+        <img src={logo} alt=' ' className='logo'/>
+        <ul>
+            <li>Home</li>
+            <li>FAQ</li>
+            <li>About Us</li>
+
+        </ul>
+    </nav>
+  )
 }
 
 export default Navbar
