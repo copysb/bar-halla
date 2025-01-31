@@ -3,7 +3,7 @@ import React from 'react'
 const OwnDrink = () => {
   return (
     <div>
-        <svg width="268" height="202" viewBox="0 0 268 202" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="250" height="200" viewBox="0 0 268 202" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="2.5" y="2.5" width="263" height="196.547" rx="42.5" stroke="url(#paint0_linear_82_18)" stroke-width="5" stroke-linejoin="round" />
     <rect x="9.604" y="10.1449" width="248.793" height="181.257" rx="42.5" stroke="url(#paint1_linear_82_18)" stroke-width="5" stroke-linejoin="round" />
     <path d="M171.977 105.382H130.784V94.8438H171.977V63.2286H185.708V94.8438H226.901V105.382H185.708V136.997H171.977V105.382Z" fill="url(#paint2_angular_82_18)" />

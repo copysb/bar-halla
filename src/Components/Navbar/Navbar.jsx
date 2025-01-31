@@ -11,7 +11,7 @@ const Navbar = () => {
             <li className='prof'><FaUser />Profile</li>
             <li className='coins'><a><img src={coin} alt='' className='sc'/></a></li>
             </ul>
-        <img src={logo} alt=' ' className='logo'/>
+        <img src={logo} alt=' ' className='logonav'/>
         <ul>
             <li>Home</li>
             <li>FAQ</li>

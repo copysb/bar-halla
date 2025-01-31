@@ -3,7 +3,7 @@ import React from 'react'
 const Swipe = () => {
   return (
     <div>
-        <svg width="268" height="202" viewBox="0 0 268 202" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="250" height="200" viewBox="0 0 268 202" fill="none" xmlns="http://www.w3.org/2000/svg">
     <rect x="2.5" y="2.5" width="263" height="196.547" rx="42.5" stroke="url(#paint0_linear_89_41)" stroke-width="5" stroke-linejoin="round" />
     <rect x="9.604" y="10.1449" width="248.793" height="181.257" rx="42.5" stroke="url(#paint1_linear_89_41)" stroke-width="5" stroke-linejoin="round" />
     <path d="M53.9619 119.573L31.855 100.787L53.9619 82L59.1202 86.3836L42.1715 100.787L59.1202 115.19L53.9619 119.573Z" fill="url(#paint2_angular_89_41)" />

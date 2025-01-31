@@ -7,10 +7,11 @@ import './Lower.css'
 const Lower = () => {
   return (
     <div className='lower'>
-        <Menu />
-        <Swipe />
-        
-        
+      <a href='#'><Menu/></a>
+      <a href='#'><Swipe/></a>
+      <a href='#'><Favourites/></a>
+      <a href='#'><OwnDrink/></a>
+      <div>Number of guests</div>
     </div>
   )
 }

@@ -3,7 +3,7 @@ import React from 'react'
 const Menu = () => {
   return (
     <div>
-        <svg width="300" height="218" viewBox="0 0 300 218" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <svg width="280" height="200" viewBox="0 0 300 218" fill="none" xmlns="http://www.w3.org/2000/svg">
         <g filter="url(#filter0_d_82_2)">
         <rect x="10.5" y="10.5" width="279" height="196.547" rx="42.5" stroke="url(#paint0_linear_82_2)" stroke-width="5" stroke-linejoin="round" />
         <rect x="18.1067" y="18.4713" width="263.787" height="180.604" rx="42.5" stroke="url(#paint1_linear_82_2)" stroke-width="5" stroke-linejoin="round" />

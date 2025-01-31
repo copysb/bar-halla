@@ -2,4 +2,14 @@
     background: url('D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/bodyBH.png');
     background-size: cover;
     background-position: center;
+    display: flex;
+    padding: 25px 25px;
+    margin: 10px auto 20px;
+    justify-content: center;
 }
+
+a {
+    padding: 20px;
+    margin: 5px auto 20px;
+}
+

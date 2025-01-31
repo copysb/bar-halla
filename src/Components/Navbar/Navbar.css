@@ -11,7 +11,7 @@ nav {
     justify-content: space-between;
 }
 
-.logo {
+.logonav {
     width: 180px;
     padding-left: 25px;
 }
@@ -20,9 +20,8 @@ nav {
     margin: 10px auto, 20px;
 }
 
-.sc {
-    width: 60px;
-}
+
+
 
 nav ul li {
     display: inline-block;
@@ -31,10 +30,17 @@ nav ul li {
     font-size: 16px;
 }
 
+.sc {
+    width: 60px;
+    padding-top: 10px;
+    padding-right: 0%;
+}
+
 .coins {
     background: #c300cd;
-    height: 80px;
-    padding: 10px 10px;
+    height: 120px;
+    width: 80px;
+    padding: 0px 0px;
     border-radius: 60px;
     transform: rotate(180deg);
 }
