@@ -26,21 +26,18 @@ nav {
 nav ul li {
     display: inline-block;
     list-style: none;
-    margin: 5px 20px;
+    margin: 5px 30px;
     font-size: 16px;
 }
 
 .sc {
     width: 60px;
-    padding-top: 10px;
-    padding-right: 0%;
+    padding-top: 10%;
 }
 
 .coins {
-    background: #c300cd;
-    height: 120px;
-    width: 80px;
+    height: 80px;
+    width: 50px;
     padding: 0px 0px;
-    border-radius: 60px;
     transform: rotate(180deg);
 }

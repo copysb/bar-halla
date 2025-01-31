@@ -8,14 +8,14 @@ const Navbar = () => {
   return (
     <nav>
         <ul>
-            <li className='prof'><FaUser />Profile</li>
-            <li className='coins'><a><img src={coin} alt='' className='sc'/></a></li>
+            <li className='prof'><FaUser /><a>Profile</a></li>
+            <li className='coins'><a href=''><img src={coin} alt='' className='sc'/></a></li>
             </ul>
-        <img src={logo} alt=' ' className='logonav'/>
+        <a><img src={logo} alt=' ' className='logonav'/></a>
         <ul>
-            <li>Home</li>
-            <li>FAQ</li>
-            <li>About Us</li>
+            <li><a href='#'>Home</a></li>
+            <li><a href='#'>FAQ</a></li>
+            <li><a href='#'>About Us</a></li>
 
         </ul>
     </nav>

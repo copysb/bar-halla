@@ -6,7 +6,6 @@ const Hero = () => {
         <div className="hero-text">
             <h6>WELCOME TO THE DARK CYBERPUNK BAR</h6>
         </div>
-        
     </div>
   )
 }

@@ -6,8 +6,28 @@
     color: #b7b7b7;
 }
 
-
 .logofoot {
     width: 180px;
-    padding-left: 25px;
+    padding-left: 250px;
+    padding-right: 250px;
+    justify-content: center;
 }
+
+ul .Constacts li {
+    padding: 25px;
+}
+
+ul {
+    padding: 30px;
+    list-style: none;
+    display: inline-block;
+    
+}
+
+.crosscont {
+    border: 0.95px solid transparent;
+    width: 250;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
