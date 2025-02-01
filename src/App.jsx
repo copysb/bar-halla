@@ -1,9 +1,9 @@
 import React from 'react'
-import Navbar from './Components/Navbar/Navbar'
+import Oops from './Components/Oops/Oops.jsx'
 
 const App = () => {
   return (
-    <div><Navbar /></div>
+    <div><Oops /></div>
   )
 }
 
