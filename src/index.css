@@ -1,23 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@600&display=swap');
-
-:root {
-    --font-family: "Lexend Zetta", serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@700&display=swap');
 
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: var(--font-family);
-    color: #bcbcbc;
+    font-family: 'Lexend Zetta', sans-serif
 }
 
 body {
-    display: flex;
-    flex-direction: column;
+    background: #000000;
 }
-
 
 a {
     text-decoration: none;
+    color: inherit;
 }
+

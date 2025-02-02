@@ -1,9 +1,20 @@
 import React from 'react'
-import Oops from './Components/Oops/Oops.jsx'
+import Navbar from './Components/Navbar/Navbar.jsx'
+import Hero from './Components/Hero/Hero.jsx'
+import Lower from './Components/Lower/Lower.jsx'
+import Footer from './Components/Footer/Footer.jsx'
+import './App.css'
 
 const App = () => {
   return (
-    <div><Oops /></div>
+    <div>
+      <Navbar />
+      <Hero />
+      <div className='Menuline'></div>
+      <div className='endgrad'></div>
+      <Lower />
+      <Footer />
+    </div>
   )
 }
 
