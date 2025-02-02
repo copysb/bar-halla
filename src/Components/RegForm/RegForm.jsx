@@ -1,8 +1,9 @@
 import React from "react";
-import './RegForm.css'  ;
+import './RegForm.css';
+import { Link } from 'react-router-dom'
 
 const Registration = () => {
-    return(
+    return (
         <div>
             <h1>SIGN UP</h1>
             <div className='wrapper'>
@@ -20,7 +21,7 @@ const Registration = () => {
                     <div className="check-account">
                         Already have an account? <a href="/login" className="nextp">Login</a>
                     </div>
-                    <button type="submit">CONFIRM</button>
+                    <Link type="submit">CONFIRM</Link>
                 </from>
             </div>
         </div>

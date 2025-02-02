@@ -1,4 +1,4 @@
-nav {
+.navbar {
     width: 100%;
     background: #111111;
     color: #bcbcbc;
@@ -19,9 +19,6 @@ nav {
 .prof {
     margin: 10px auto, 20px;
 }
-
-
-
 
 nav ul li {
     display: inline-block;

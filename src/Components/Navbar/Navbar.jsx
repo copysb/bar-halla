@@ -6,7 +6,7 @@ import { FaUser } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <nav>
+    <nav className='navbar'>
         <ul>
             <li className='prof'><FaUser /><a>Profile</a></li>
             <li className='coins'><a href=''><img src={coin} alt='' className='sc'/></a></li>

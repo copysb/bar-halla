@@ -8,7 +8,7 @@ import RegForm from './Components/RegForm/RegForm.jsx'
 const App = () => {
   return (
     <div>
-      <RegForm />
+      <MainPage />
     </div>
   )
 }
