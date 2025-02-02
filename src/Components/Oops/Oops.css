@@ -20,6 +20,7 @@
 
 .Titlecard {
     position: center;
+    margin-top: 50px;
     width: 441px;
     height: 76px;
     left: 750px;
@@ -45,15 +46,15 @@ h4 {
     color: white;
     text-align: center;
     position: center;
-    margin-bottom: 50px;
+    margin-top: -10%;
+    margin-bottom: 60px;
 }
 
 .Back {
-    width: 250px;
-    height: 70px;
+    width: 215px;
+    height: 40px;
     position: center;
     left: 165px;
-    top: 50px;
     cursor: pointer;
     font-size: 24px;
     color: #ffffff;
