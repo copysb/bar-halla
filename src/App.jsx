@@ -16,11 +16,6 @@ import './App.css'
 const App = () => {
   return (
     <div>
-<<<<<<< HEAD
-      <Login/>
-=======
-      <RegForm/>
->>>>>>> 954a1c1f65b23c0a622ffbc00fbb5882c6cb4134
     </div>
   )
 }
