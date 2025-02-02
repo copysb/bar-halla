@@ -1,23 +1,19 @@
-import React from "react";
-import './RegForm.css';
+import React from 'react';
+import './Login.css';
 
-const Registration = () => {
-    return(
+const Login = () => {
+    return (
         <div className='wrapper'>
             <from action = "">
-                <h1>SIGN UP</h1>
+                <h1>LOGIN</h1>
                 <div className = "input-box">
                     <input type="text"  placeholder= 'Username...' required/>
                 </div>
                 <div className = "input-box">
                     <input type="password"  placeholder= 'Password...' required/>
                 </div>
-                <div className = "input-box">
-                    <input type="password"  placeholder= 'Confirm password...' required/>
-                </div>
                 <div className="check-account">
-                    <p>Already have an account?</p>
-                    <a href="/login">Login</a>
+                    <a href="#">Forgot password?</a>
                 </div>
                 <button type="submit">CONFIRM</button>
             </from>
@@ -25,4 +21,4 @@ const Registration = () => {
     );
 };
 
-export default Registration;
+export default Login;

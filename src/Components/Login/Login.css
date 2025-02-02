@@ -6,14 +6,14 @@ body {
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
-    
+  
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('../Assets/backgd_for_reg.png');
+    background: url('../Assets/backgroundBH.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -1,0 +1,64 @@
+.container {
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('../Assets/backgroundBH.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    flex-direction: column;
+}
+
+
+.Titlecard {
+    position: center;
+    width: 441px;
+    height: 76px;
+    left: 750px;
+    cursor: pointer;
+    background: rgba(196, 11, 177, 0.37);
+    border: 1px solid #eaeaea;
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+
+
+h3 {
+    color: white;
+    margin: 100px;
+    text-align: center;
+    padding: 100px;
+    position: center;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    position: center;
+    margin-bottom: 50px;
+}
+
+.Back {
+    width: 250px;
+    height: 70px;
+    position: center;
+    left: 165px;
+    top: 50px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #ffffff;
+    background: rgba(196, 11, 177, 0.37);
+    border: solid 1px #eaeaea;
+    letter-spacing: 15%;
+    font-weight: bolder;
+}
