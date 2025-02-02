@@ -13,9 +13,6 @@ const Lower = () => {
         <a href='#'><Favourites/></a>
         <a href='#'><OwnDrink/></a>
       </div>
-      <div className='guests'>
-        <ul>Amount of guests</ul>
-      </div>
     </div>
   )
 }

@@ -4,7 +4,8 @@
     background: linear-gradient(rgba(8,0,58,1), rgba(8,0,58,0)), 
     url("../../Assets/MenuBG.jpg");
     
-    background-position: center;
+    display: flex;
+    position: center;
     background-size: cover;
     color: #FFF;
     display: flex;
@@ -19,7 +20,7 @@
     max-width: 300px;
     display: inline-block;
     position: inherit;
-    display: flex;
+    display:x fle;
 }
 
 .hero-text h6 {

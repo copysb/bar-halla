@@ -72,6 +72,5 @@ function AboS() {
     </div>
   );
 };
-ReactDOM.createRoot(document.getElementById("dualite-root")).render(<AboS />);
 
 export default AboS
