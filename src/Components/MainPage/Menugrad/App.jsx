@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from './Components/Navbar/Navbar.jsx'
-import Hero from './Components/MainPage/Hero/Hero.jsx'
-import Lower from './Components/MainPage/Lower/Lower.jsx'
-import Footer from './Components/Footer/Footer.jsx'
+import Navbar from '../../Navbar/Navbar.jsx'
+import Hero from '../Hero/Hero.jsx'
+import Lower from '../Lower/Lower.jsx'
+import Footer from '../../Footer/Footer.jsx'
 import './App.css'
 
 const App = () => {
