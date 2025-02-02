@@ -1,7 +1,7 @@
 import React from 'react'
 import './Navbar.css'
-import logo from 'D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/Bar-Halla-logo.png'
-import coin from 'D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/stick-coin.png'
+import logo from '../Assets/Bar-Halla-logo.png'
+import coin from '../Assets/stick-coin.png'
 import { FaUser } from "react-icons/fa";
 
 const Navbar = () => {

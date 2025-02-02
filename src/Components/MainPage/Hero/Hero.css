@@ -2,7 +2,7 @@
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(rgba(8,0,58,1), rgba(8,0,58,0)), 
-    url("D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/MenuBG.jpg");
+    url("../../Assets/MenuBG.jpg");
     
     background-position: center;
     background-size: cover;

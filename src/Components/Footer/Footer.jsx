@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import logo from 'D:/Владелец/Desktop/WWW BAR-HALLA/bar-halla-1/src/Assets/Bar-Halla-logo.png'
+import logo from '../Assets/Bar-Halla-logo.png'
 
 const Footer = () => {
   return (
