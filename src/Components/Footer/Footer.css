@@ -1,12 +1,12 @@
 .footer {
     border: 0.95px solid #fff;
     background: #222222;
-    width: 100%;
-    top: 50%;
-    margin-left: -100%;
-    height: 150px;
+    width: 122.5%;
     color: #b7b7b7;
-    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -140px;
+    
 }
 
 .logofoot {
@@ -16,9 +16,6 @@
     justify-content: center;
 }
 
-ul .Constacts li {
-    padding: 25px;
-}
 
 ul {
     padding: 30px;

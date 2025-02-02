@@ -1,5 +1,6 @@
 nav {
     box-sizing: border-box;
+    background: url('../Assets/backgroundBH.jpg');
 }
 
 
@@ -13,7 +14,7 @@ nav {
     padding-top: 10px;
     font-size: 25px;
     color: #b7b7b7;
-    display:inline-flex;
+    display: flex;
     margin: 25px;
 }
 

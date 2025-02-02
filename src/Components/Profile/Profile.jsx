@@ -1,6 +1,6 @@
 import React from 'react'
 import './Profile.css'
-import { FaUser, FaPlus, FaStar } from 'react-icons/fa'
+import { FaUser, FaStar } from 'react-icons/fa'
 import { GiInfo } from "react-icons/gi";
 import { CiSettings } from "react-icons/ci";
 import { PiSignOut } from "react-icons/pi";
