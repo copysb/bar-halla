@@ -1,9 +1,9 @@
 .hero {
-    width: 100%;
-    min-height: 100vh;
+    width: 122.5%;
+    min-height: 90vh;
     background: linear-gradient(rgba(8,0,58,1), rgba(8,0,58,0)), 
     url("../../Assets/MenuBG.jpg");
-    
+    margin-left: -140px;
     display: flex;
     position: center;
     background-size: cover;

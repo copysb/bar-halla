@@ -9,8 +9,8 @@ import './MainPage.css'
 const MainPage = () => {
   return (
     <div className='mainpage'>
-        <Navbar/>
-        <Hero/>
+        <Navbar />
+        <Hero />
         <Menugrad/>
         <Lower />
         <Footer/>
