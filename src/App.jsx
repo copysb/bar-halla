@@ -16,7 +16,6 @@ import './App.css'
 const App = () => {
   return (
     <div>
-      <RegForm/>
     </div>
   )
 }
