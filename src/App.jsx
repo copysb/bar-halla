@@ -16,7 +16,7 @@ import './App.css'
 const App = () => {
   return (
     <div>
-      <Profile/>
+      <Login/>
     </div>
   )
 }

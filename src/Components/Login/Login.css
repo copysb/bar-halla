@@ -21,7 +21,7 @@ body {
 
 .wrapper{
     width: 565px;
-    height: 286px;
+    height: 230px;
     background-color: rgba(131, 53, 245, 0.6);
     color: rgba(0, 0, 0, 0.4);
     border: solid 1px #eaeaea;
@@ -59,8 +59,10 @@ body {
 .wrapper .check-account {
     display: flex;
     justify-content: space-between;
+    position: absolute;
     font-size: 16px;
     margin: -5px 30px 15px;
+    top: 43%;
     letter-spacing: 10%;
 }
 .check-account a {
@@ -70,11 +72,11 @@ body {
 
 }
 .wrapper button {
-    width: 236.32px;
+    width: 240px;
     height: 70px;
-    position: relative;
-    left: 165px;
-    top: 50px;
+    position: absolute;
+    left: 42%;
+    top: 65%;
     cursor: pointer;
     font-size: 24px;
     color: #ffffff;
