@@ -8,7 +8,7 @@ import './MainPage.css'
 
 const MainPage = () => {
   return (
-    <div className='mainpage'>
+    <div>
         <Navbar />
         <Hero />
         <Menugrad/>
