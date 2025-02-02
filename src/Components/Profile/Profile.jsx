@@ -20,11 +20,11 @@ const Profile = () => {
               </ul>
             <div className='ProfButtons'>
               <ul>
-                <a className='sacr Info' href='#'><GiInfo/> Info</a>
-                <a className='sacr SupportUs' href='#'><FaStar/> Support Us!</a>
-                <a className='sacr Settings' href='#'><CiSettings /> Settings</a>
-                <a className='sacr SignOut' href='#'><PiSignOut /> Sign out</a>
-                <a className='del Delete' href='#'>Delete account</a>
+                <a className='sacr Info' href='*'><GiInfo/> Info</a>
+                <a className='sacr SupportUs' href='*'><FaStar/> Support Us!</a>
+                <a className='sacr Settings' href='*'><CiSettings /> Settings</a>
+                <a className='sacr SignOut' href='/registration'><PiSignOut /> Sign out</a>
+                <a className='del Delete' href='/registration'>Delete account</a>
               </ul>
             </div>
           </div>

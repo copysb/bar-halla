@@ -11,7 +11,7 @@ const Oops = () => {
             The page you`ve just entered is coming soon
         </h3>
         <h4>We sincerely apologize about that</h4>
-        <Link className="Back">BACK HOME</Link>
+        <a className="Back" to='/main'>BACK HOME</a>
     </div>
   )
 }

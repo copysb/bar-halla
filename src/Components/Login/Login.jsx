@@ -13,9 +13,9 @@ const Login = () => {
                     <input type="password"  placeholder= 'Password...' required/>
                 </div>
                 <div className="check-account">
-                    <a href="#">Forgot password?</a>
+                    <a href="*">Forgot password?</a>
                 </div>
-                <button type="submit">CONFIRM</button>
+                <a className='mpage' href='/main' type="submit">CONFIRM</a>
             </from>
         </div>
     );

@@ -11,10 +11,10 @@ const Lower = () => {
   return (
     <div>
       <div className='lower'>
-        <a href='/'><Menu/></a>
-        <a href='/'><Swipe/></a>
-        <a href='/'><Favourites/></a>
-        <a href='/'><OwnDrink/></a>
+        <a href='*'><Menu/></a>
+        <a href='*'><Swipe/></a>
+        <a href='*'><Favourites/></a>
+        <a href='*'><OwnDrink/></a>
       </div>
 
     </div>
