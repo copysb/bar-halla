@@ -5,9 +5,12 @@ nav {
 
 
 .left-side {
+    position: absolute;
     background: #474747;
     width: 302px;
     height: 100vh;
+    left: 0%;
+    top: 0%;
 }
 
 .left-side ul {

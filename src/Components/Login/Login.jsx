@@ -12,7 +12,7 @@ const Login = () => {
                 <div className = "input-box">
                     <input type="password"  placeholder= 'Password...' required/>
                 </div>
-                <div className="check-account">
+                <div className="forgot">
                     <a href="*">Forgot password?</a>
                 </div>
                 <a className='mpage' href='/main' type="submit">CONFIRM</a>

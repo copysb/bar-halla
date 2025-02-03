@@ -4,7 +4,6 @@ import { FaUser, FaStar } from 'react-icons/fa'
 import { GiInfo } from "react-icons/gi";
 import { CiSettings } from "react-icons/ci";
 import { PiSignOut } from "react-icons/pi";
-import Footer from '../Footer/Footer';
 
 const Profile = () => {
   return (
@@ -43,7 +42,6 @@ const Profile = () => {
               <div className='func-border3'></div>
           </span>
       </nav>
-      <div className='foot'><Footer/></div>
     </div>
   )
 }

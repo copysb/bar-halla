@@ -27,12 +27,13 @@ h1 {
 }
 
 .wrapper {
+    margin: 50px;
     width: 565px;
-    height: 350px;
+    height: 275px;
     background-color: rgba(131, 53, 245, 0.6);
     color: rgb(255, 255, 255);
     border: solid 2px #eaeaea;
-    min-height: 10vh;
+    min-height: 15vh;
 }
 
 
@@ -46,9 +47,11 @@ h1 {
     margin: 30px 0;
 }
 
-.input-box input {
+.wrapper .input-box input {
     width: 100%;
     height: 100%;
+    top: -35%;
+    position: absolute;
     background: transparent;
     border: transparent;
     outline: none;
@@ -70,20 +73,25 @@ h1 {
     font-size: 16px;
     margin: -5px 30px 15px;
     letter-spacing: 10%;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 135px;
 }
 
-.check-account a {
+.wrapper .check-account a {
     color: rgba(67, 200, 96, 1);
-    display: inline-block;
+    display: flex;
     font-weight: bold;
-    position: relative;
-    left: -5%;
+    position: absolute;
+    left: 100%;
+    top: -120%;
 
 }
 
 .wrapper .mpage {
-    width: 236.32px;
+    width: 240px;
     height: 70px;
+    top: 10%;
     position: relative;
     left: 165px;
     top: 30px;
