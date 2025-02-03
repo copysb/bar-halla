@@ -19,9 +19,9 @@ const Profile = () => {
               </ul>
             <div className='ProfButtons'>
               <ul>
-                <a className='sacr Info' href='*'><GiInfo/> Info</a>
-                <a className='sacr SupportUs' href='*'><FaStar/> Support Us!</a>
-                <a className='sacr Settings' href='*'><CiSettings /> Settings</a>
+                <a className='sacr Info' href='/Error'><GiInfo/> Info</a>
+                <a className='sacr SupportUs' href='/Error'><FaStar/> Support Us!</a>
+                <a className='sacr Settings' href='/Error'><CiSettings /> Settings</a>
                 <a className='sacr SignOut' href='/registration'><PiSignOut /> Sign out</a>
                 <a className='del Delete' href='/registration'>Delete account</a>
               </ul>

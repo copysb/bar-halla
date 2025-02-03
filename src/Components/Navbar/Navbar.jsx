@@ -9,13 +9,13 @@ const Navbar = () => {
     <nav className='navbar'>
         <ul>
             <li className='prof'><a href='/profile'><FaUser /> Profile</a></li>
-            <li className='coins'><a href='*'><img src={coin} alt='' className='sc'/></a></li>
+            <li className='coins'><a href='/Error'><img src={coin} alt='' className='sc'/></a></li>
             </ul>
-        <a><img src={logo} alt=' ' className='logonav'/></a>
+        <a href='/main'><img src={logo} alt=' ' className='logonav'/></a>
         <ul>
             <li><a href='/main'>Home</a></li>
-            <li><a href='*'>FAQ</a></li>
-            <li><a href='*'>About Us</a></li>
+            <li><a href='/Error'>FAQ</a></li>
+            <li><a href='/Error'>About Us</a></li>
 
         </ul>
     </nav>
